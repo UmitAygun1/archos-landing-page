@@ -13,7 +13,7 @@ import { BottomCTAAndFooter } from './components/BottomCTAAndFooter.tsx';
 import { LoginModal, InfoModal } from './components/Modals.tsx';
 
 // Merkezi Studio yönlendirme sabiti:
-export const STUDIO_APP_URL = https://archos-main.vercel.app/
+export const STUDIO_APP_URL = 'https://archos-main.vercel.app/'
 
 export default function App() {
   const [loginModalOpen, setLoginModalOpen] = useState(false);
