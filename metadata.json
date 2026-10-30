@@ -1,0 +1,6 @@
+{
+  "name": "ArchOS — Autonomous AEC Compliance & Feasibility Engine",
+  "description": "Auto-verify blueprints against local building codes in 60 seconds. ArchOS deploys specialized vision and legal AI agents to audit CAD/BIM files before you submit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
